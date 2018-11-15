@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Userland.Ls": {
+      "commandName": "Project",
+      "commandLineArgs": "-lF . .."
+    }
+  }
+}

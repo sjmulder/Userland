@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Userland.Echo": {
+      "commandName": "Project",
+      "commandLineArgs": "Hello, World!"
+    }
+  }
+}

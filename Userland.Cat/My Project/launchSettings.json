@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Userland.Cat": {
+      "commandName": "Project",
+      "commandLineArgs": "abc.txt"
+    }
+  }
+}

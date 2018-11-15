@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Userland.Ls</RootNamespace>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>ulls</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Userland.Lib\Userland.Lib.vbproj" />
+  </ItemGroup>
+
+</Project>
